@@ -1,0 +1,4 @@
+ 5.How can you avoid overfitting ?
+By using techinque called cross validation we can avoid overfitting. In this method the dataset splits into two section, testing and training datasets, the testing dataset will only test the model while, in training dataset, the datapoints will come up with the model.
+
+In this technique,  a model is usually given a dataset of a known data on which training (training data set) is run and a dataset of unknown data against which the model is tested. The idea of cross validation is to define a dataset to “test” the model in the training phase.

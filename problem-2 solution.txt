@@ -1,0 +1,4 @@
+2. What is the standard approach to supervised learning?
+
+Standard approach is split the set of example into training set and test set for supervised learning.
+
